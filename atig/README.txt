@@ -3,6 +3,7 @@
 
 Граббер/Парсер данных с сайта ati.su
 Форкнуто из https://bitbucket.org/ychuperka/grabber-ati.su/
+Данные для авторизации в lib/phantom_scripts/auth.js 41 и 42 строка, логин и парольв ati.su
 Добавлен функционал:
 - Сбор id компаний
 - Сохранение происходит в data/idlist.json
